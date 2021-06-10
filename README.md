@@ -2,14 +2,14 @@
 안녕하세요. 반갑습니다. 
 
 - 🔭 I’m currently working on improving my skillset to utilize AI to solve real-world problems
-- 🌱 I’m currently learning python, java, cloud and data engineering stacks
+- 🌱 I’m currently studying ML, DL algorithms as well as developing programming skills to utilize python, java, cloud and data engineering stacks
 - 👯 I’m looking to collaborate on data science projects
 
 [![Miscaminos' github stats](https://github-readme-stats.vercel.app/api?username=miscaminos)](https://github.com/miscaminos/github-readme-stats)
 
 ## **Keywords about ME**
 
-####  #Data #Passion 
+####  #Data #Problem-solving
 
 <div align=center>
 
