@@ -11,8 +11,8 @@
 
 ####  #Data #Problem-solving
 
-<div align=center>
+<!-- <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@miscaminos)](https://velog.io/@miscaminos) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:linzlee1221@gmail.com)](mailto:linzlee1221@gmail.com)
-</div>
+</div> -->
