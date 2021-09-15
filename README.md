@@ -5,11 +5,11 @@
 - 🌱 I’m currently studying ML, DL algorithms as well as developing programming skills to utilize python, java, cloud and data engineering stacks
 - 👯 I’m looking to collaborate on data science projects
 
-[![Miscaminos' github stats](https://github-readme-stats.vercel.app/api?username=miscaminos)](https://github.com/miscaminos/github-readme-stats)
+<!-- [![Miscaminos' github stats](https://github-readme-stats.vercel.app/api?username=miscaminos)](https://github.com/miscaminos/github-readme-stats) -->
 
 ## **Keywords about ME**
 
-####  #Data #Problem-solving
+####  #DataAnalytics #MachineLearning #Problem-solving
 
 <!-- <div align=center>
 
